@@ -3,7 +3,6 @@ The following items were presented on one page and each was rated on a five poin
 The scale was labeled 1=Disagree, 3=Neutral, 5=Agree
 
 EXT1	I am the life of the party.
-
 EXT2	I don't talk a lot.
 EXT3	I feel comfortable around people.
 EXT4	I keep in the background.
