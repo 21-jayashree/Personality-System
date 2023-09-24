@@ -1,4 +1,4 @@
-# Personality-System
+# About Personality-System dataset
 The following items were presented on one page and each was rated on a five point scale using radio buttons. The order on page was was EXT1, AGR1, CSN1, EST1, OPN1, EXT2, etc.
 The scale was labeled 1=Disagree, 3=Neutral, 5=Agree
 
