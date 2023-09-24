@@ -2,7 +2,7 @@
 The following items were presented on one page and each was rated on a five point scale using radio buttons. The order on page was was EXT1, AGR1, CSN1, EST1, OPN1, EXT2, etc.
 The scale was labeled 1=Disagree, 3=Neutral, 5=Agree
 
-EXT1	I am the life of the party.
+EXT1	I am the life of the party."\n"
 EXT2	I don't talk a lot.
 EXT3	I feel comfortable around people.
 EXT4	I keep in the background.
