@@ -51,7 +51,7 @@ X
 # In[34]:
 
 
-X = X.fillna(0)
+X = X.fillna(0) #fills missing values  with zeros (0) to handle missing data
 from sklearn.cluster import MiniBatchKMeans
 kmeans = MiniBatchKMeans(n_clusters=10, random_state=0, batch_size=100, max_iter=100).fit(X)
 
@@ -59,7 +59,7 @@ kmeans = MiniBatchKMeans(n_clusters=10, random_state=0, batch_size=100, max_iter
 # In[35]:
 
 
-len(kmeans.cluster_centers_)
+len(kmeans.cluster_centers_) # print 10 if the clustering was successful
 
 
 # In[36]:
@@ -147,7 +147,7 @@ all_extroversion_normalized
 
 counter = 0
 
-normalized_all_types_scores ={}
+normalized_all_types_scores ={} #to scale and transform data so that it falls within a specific range, ie 0 and 1.
 
 for personality_type, personality_trait in all_types_scores.items():
     normalized_personality_trait ={}
