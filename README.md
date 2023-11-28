@@ -11,7 +11,9 @@ EXT6	I have little to say.
 EXT7	I talk to a lot of different people at parties.
 EXT8	I don't like to draw attention to myself.
 EXT9	I don't mind being the center of attention.
-EXT10	I am quiet around strangers. "\n"
+EXT10	I am quiet around strangers. 
+
+
 EST1	I get stressed out easily.
 EST2	I am relaxed most of the time.
 EST3	I worry about things.
@@ -22,6 +24,8 @@ EST7	I change my mood a lot.
 EST8	I have frequent mood swings.
 EST9	I get irritated easily.
 EST10	I often feel blue.
+
+
 AGR1	I feel little concern for others.
 AGR2	I am interested in people.
 AGR3	I insult people.
@@ -32,6 +36,8 @@ AGR7	I am not really interested in others.
 AGR8	I take time out for others.
 AGR9	I feel others' emotions.
 AGR10	I make people feel at ease.
+
+
 CSN1	I am always prepared.
 CSN2	I leave my belongings around.
 CSN3	I pay attention to details.
@@ -42,6 +48,8 @@ CSN7	I like order.
 CSN8	I shirk my duties.
 CSN9	I follow a schedule.
 CSN10	I am exacting in my work.
+
+
 OPN1	I have a rich vocabulary.
 OPN2	I have difficulty understanding abstract ideas.
 OPN3	I have a vivid imagination.
