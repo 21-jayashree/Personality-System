@@ -11,7 +11,7 @@ EXT6	I have little to say.
 EXT7	I talk to a lot of different people at parties.
 EXT8	I don't like to draw attention to myself.
 EXT9	I don't mind being the center of attention.
-EXT10	I am quiet around strangers.
+EXT10	I am quiet around strangers. "\n"
 EST1	I get stressed out easily.
 EST2	I am relaxed most of the time.
 EST3	I worry about things.
